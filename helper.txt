@@ -1,0 +1,44 @@
+ project 120{
+You have to create a website template for the case study, this website should have the following things:
+
+    An image which is used for testing.
+
+    First, get at least 10 objects from your home on which you want to do a test, it can be anything like - water bottle,
+     ring, pillow, bed, hangers, mobile, glass, spoon, shirt, clothes, switchboard, fan, soap, air conditioner, etc. 
+     DONE
+     
+     And click images of them by using the camera of your phone.  DONE      
+     
+     After clicking the images of the objects, keep all the objects at a safe place because you will be needing these 
+     same objects in the next project.         DONE
+
+    Send the images from your phone to your laptop, if you already know to send images from phone to laptop then great.
+    DONE
+
+    If you know how to get images from phone to laptop and didn’t followed the process mentioned in the about video then:
+
+    After you got the images in your laptop, then put all these images in the 
+    case-study-project-between-googleLens-mobilenet folder.       DONE
+
+    Rename those images and one by one put these images in the src of the img tag.
+
+    To show the result from Google Lens.
+
+    Define an empty span/p/any tag, in the next project we will fill the text for this.+
+
+    To show the result from a Real Time Image Identification web application(which you are making in the class).
+
+    Define an empty span/p/any tag, in the next project we will fill the text for this.
+
+    A mini conclusion for stating which is more accurate.
+
+    Define an empty span/p/any tag, in the next project we will fill the text for this.
+
+    Create a footer of your name and give style.
+    An overall conclusion which mentioned how many images are used, and according to you which method is m``6=-09876543 `st accurate.
+
+    Define an empty span/p/any tag, in the next project we will fill the text for this.
+
+    Use ol tag for keeping the images and results in sequence.
+    gb
+}
