@@ -1,44 +1,112 @@
- project 120{
-You have to create a website template for the case study, this website should have the following things:
+<ol style="padding:0px;">
+		<div class="bob col-xs-12">
 
-    An image which is used for testing.
+			<li class="col-sm-4 col-xs-12">
+				<b style="color: white;">Test Image - </b><img src="bottle.jpeg" class="img-responsive">
+			</li>
+			<h5 class="col-sm-4 col-xs-12" >Output on <b>GOOGLE LENS</b> -
+				<span>Water Bottle</span>  
+			</h5>
+			<h5 class="col-sm-4 col-xs-12">Output on <b>Mobilenet Model </b> -
+				<span>Water Bottle</span>  
+			</h5>
 
-    First, get at least 10 objects from your home on which you want to do a test, it can be anything like - water bottle,
-     ring, pillow, bed, hangers, mobile, glass, spoon, shirt, clothes, switchboard, fan, soap, air conditioner, etc. 
-     DONE
-     
-     And click images of them by using the camera of your phone.  DONE      
-     
-     After clicking the images of the objects, keep all the objects at a safe place because you will be needing these 
-     same objects in the next project.         DONE
+			<div class="bob3" class="col-xs-12">
+				<h4>Result - </h4>
+				<hr>
+				<h4>Draw</h4>
+			</div>
 
-    Send the images from your phone to your laptop, if you already know to send images from phone to laptop then great.
-    DONE
+		</div>
+		<br>
 
-    If you know how to get images from phone to laptop and didn’t followed the process mentioned in the about video then:
+		<div class="bob col-xs-12">
 
-    After you got the images in your laptop, then put all these images in the 
-    case-study-project-between-googleLens-mobilenet folder.       DONE
+			<li class="col-sm-4 col-xs-12">
+				<b style="color: white;">Test Image - </b><img src="shoes.jpeg" class="img-responsive">
+			</li>
+			<h5 class="col-sm-4 col-xs-12" >Output on <b>GOOGLE LENS</b> -
+				<span>Canvas shoes</span>  
+			</h5>
+			<h5 class="col-sm-4 col-xs-12">Output on <b>Mobilenet Model </b> -
+				<span>Running shoes</span>  
+			</h5>
 
-    Rename those images and one by one put these images in the src of the img tag.
+			<div class="bob3" class="col-xs-12">
+				<h4>Result - </h4>
+				<hr>
+				<h4>GOOGLE LENS Is More Accurate</h4>
+			</div>
 
-    To show the result from Google Lens.
+		</div>
+				
+		<br>
 
-    Define an empty span/p/any tag, in the next project we will fill the text for this.+
+		<div class="bob col-xs-12">
 
-    To show the result from a Real Time Image Identification web application(which you are making in the class).
+			<li class="col-sm-4 col-xs-12">
+				<b style="color: white;">Test Image - </b><img src="hp.jpeg" class="img-responsive">
+			</li>
+			<h5 class="col-sm-4 col-xs-12" >Output on <b>GOOGLE LENS</b> -
+				<span>Headphones</span>  
+			</h5>
+			<h5 class="col-sm-4 col-xs-12">Output on <b>Mobilenet Model </b> -
+				<span>Microphone, Mike</span>  
+			</h5>
 
-    Define an empty span/p/any tag, in the next project we will fill the text for this.
+			<div class="bob3" class="col-xs-12">
+				<h4>Result - </h4>
+				<hr>
+				<h4>GOOGLE LENS Is More Accurate</h4>
+			</div>
 
-    A mini conclusion for stating which is more accurate.
+		</div>
+				
+		<br>
 
-    Define an empty span/p/any tag, in the next project we will fill the text for this.
+		<div class="bob col-xs-12">
 
-    Create a footer of your name and give style.
-    An overall conclusion which mentioned how many images are used, and according to you which method is m``6=-09876543 `st accurate.
+			<li class="col-sm-4 col-xs-12">
+				<b style="color: white;">Test Image - </b><img src="t.jpeg" class="img-responsive">
+			</li>
+			<h5 class="col-sm-4 col-xs-12" >Output on <b>GOOGLE LENS</b> -
+				<span>Soft toy</span>  
+			</h5>
+			<h5 class="col-sm-4 col-xs-12">Output on <b>Mobilenet Model </b> -
+				<span>Ski mask</span>  
+			</h5>
 
-    Define an empty span/p/any tag, in the next project we will fill the text for this.
+			<div class="bob3" class="col-xs-12">
+				<h4>Result - </h4>
+				<hr>
+				<h4>GOOGLE LENS Is More Accurate</h4>
+			</div>
 
-    Use ol tag for keeping the images and results in sequence.
-    gb
-}
+		</div>
+				
+		<br>
+
+		<div class="bob col-xs-12">
+
+			<li class="col-sm-4 col-xs-12">
+				<b style="color: white;">Test Image - </b><img src="bed.jpeg" class="img-responsive">
+			</li>
+			<h5 class="col-sm-4 col-xs-12" >Output on <b>GOOGLE LENS</b> -
+				<span>Bed, Pillow, Blanket</span>  
+			</h5>
+			<h5 class="col-sm-4 col-xs-12">Output on <b>Mobilenet Model </b> -
+				<span>bathtub, bathing tub, bath, tub</span>  
+			</h5>
+
+			<div class="bob3" class="col-xs-12">
+				<h4>Result - </h4>
+				<hr>
+				<h4>GOOGLE LENS Is More Accurate</h4>
+			</div>
+
+		</div>
+				
+		<br>
+
+
+	</ol>
